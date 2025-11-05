@@ -24,7 +24,7 @@ I love building things from the ground up — from TCP gateways to lightweight r
 ---
 
 ##  Day to Day tool
-`Go` · `TS` · `C++` · `Bun`. `Linux Networking` · `Containers` ·  `Sandboxing  Master Linux Cgroup and Namsapce` . `Ubuntu as OS` . `Docker` . `k8s` .`Argocd` . `Helm`
+`Go` · `TS` · `C++` · `Bun`. `Linux Networking` · `Containers` ·  `Sandboxing  Master Linux Cgroup and Namespace` . `Ubuntu as OS` . `Docker` . `k8s` .`Argocd` . `Helm`
 
 ---
 
