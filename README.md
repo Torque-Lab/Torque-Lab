@@ -1,7 +1,7 @@
 # 👋 Hi, I'm [Mathura Kumar]
 
 I'm a systems engineer passionate about networks, protocols, Backend,and infrastructure
-I love building things from the ground up — from TCP gateways to lightweight runtimes.
+I love building things from the ground up...
 
 ---
 
