@@ -23,8 +23,8 @@ I love building things from the ground up...
 
 ---
 
-##  Day to Day tool
-`Go` · `TS` · `C++` · `Bun`. `Linux Networking` · `Containers` ·  `Sandboxing  Master Linux Cgroup and Namespace` . `Ubuntu as OS` . `Docker` . `k8s` .`Argocd` . `Helm`
+##  Day to Day Tech
+`Go` · `TS` · `C++` · `Bun`. `Linux Networking` · `Containers` ·  ` Linux Cgroup and Namespace` . `Ubuntu as OS` . `Docker` . `k8s` .`Argocd` . `Helm` . `GCP`
 
 ---
 
