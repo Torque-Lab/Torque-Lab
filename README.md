@@ -16,7 +16,7 @@ I love building things from the ground up...
 -Link [https://github.com/Torque-Lab/redis-cp-proxy]
    
 ###  Infrastructure
-- **Mini Docker Runtime** – executes OCI containers, basic cgroups & namespaces,no support to build image but can run prebuid image
+- **Mini Docker Runtime** – executes OCI containers, basic cgroups & namespaces,no support to build image but can run prebuild image
 - Link-[https://github.com/Torque-Lab/orbit-runtime]
 - **Packet Sniffer** – low-level packet capture & protocol inspector open all layer as per TCP/IP stack in cpp
 - [https://github.com/Torque-Lab/packet-sniffer]
@@ -24,7 +24,6 @@ I love building things from the ground up...
 ---
 
 ##  Day to Day Tech
-`Go` · `TS` · `C++` · `Bun`. `Linux Networking` · `Containers` ·  ` Linux Cgroup and Namespace` . `Ubuntu as OS` . `Docker` . `k8s` .`Argocd` . `Helm` . `GCP`
+`Go` · `TS` · ` C & C++` · `Bun`· `Containers` . `Linux Ubuntu as OS` . `Brave` . `Docker` . `k8s` .`Argocd` . `Helm` . `GCP` `TF`
 
 ---
-
