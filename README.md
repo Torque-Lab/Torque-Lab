@@ -1,7 +1,7 @@
-# 👋 Hi, I'm [Mathura Kumar]
+# 👋 Hi, I'm [Mathura_Kumar]
 
 
-##  Featured Product
+##  Featured Dev Tool
 
 ###  TCP Gateways
 - **Postgres Gateway** – implemented wire protocol from RFC, SSL termination,performs SCRAM auth & dynamic address lookup
